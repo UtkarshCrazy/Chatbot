@@ -1,6 +1,6 @@
-# Banking FAQ Bot
-This is retrieval based Chatbot based on FAQs found at a banking website.
-I've scraped the FAQs of various section from a banking website and saved it in a JSON file with format
+# FAQ chatBot
+This is retrieval based Chatbot based on FAQs found at a company website.
+I've scraped the FAQs of various section from a company website and saved it in a JSON file with format
 {section:
 [[question, answer], [question, answer], ...]
 }
